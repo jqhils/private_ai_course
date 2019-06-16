@@ -2,7 +2,7 @@
 Code to accompany Andrew Trask's new Udacity course on [Secure and Private AI](https://classroom.udacity.com/courses/ud185)
 
 ## Topics
-- [ ] L1 - Deep Learning with PyTorch
+- [x] L1 - Deep Learning with PyTorch
 - [ ] L2 - Introducing Differential Privacy
 - [ ] L3 - Evaluating the Privacy of a Function
 - [ ] L4 - Introducing Local and Global Differential Privacy
